@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Francesco Vacca, a third year student @ BocconiUniversity.
-- 📚 I'm currently enrolled in the BEMACS program, a Bachelor in Economics and Computer Science.
-- 👀 I’m interested in AI, Machine Learning, and Data Science.
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/francesco-vacca-3339a821a/)! 
+- 👋 Hi, I’m Francesco Vacca, a MSc student in Statistical Science @ Oxford University.
+- 📚 I graduated cum Laude with a BSc in Economics and Computer Science from Bocconi University.
+- 👀 I’m interested in Machine Learning, Quant Finance and Data Science.
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/francescoovacca)! 
 
 <!---
 francescoovacca/francescoovacca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
